@@ -1,3 +1,9 @@
+# AI SaaS Healthcare Application
+
+For details on how to build a docker image and deploy in ECS follow [these instructions](https://github.com/ed-donner/production/blob/main/week1/day5.md#step-2-build-the-docker-image).
+
+## Next JS
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/pages/api-reference/create-next-app).
 
 ## Getting Started
